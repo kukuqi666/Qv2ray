@@ -20,12 +20,12 @@ hello_world()
 
 ![image](https://github.com/kukuqi666/Qv2ray_tools/blob/main/images/IMG_20240722_132513.png)
 
-3. 核心文件配置好接下来安装Qvplugin插件，插件的位置默认在/home/用户名/.config/qv2ray/plugins/路径下面，
+2. 核心文件配置好接下来安装Qvplugin插件，插件的位置默认在/home/用户名/.config/qv2ray/plugins/路径下面，
 下载好的插件(.so文件)用mv命令移动到默认位置下面，用户名是自己电脑的用户名
 
 ![image](https://github.com/kukuqi666/Qv2ray_tools/blob/main/images/IMG_20240722_132623.png)
 
-5. 插件安装完理论上是可以用了 但是如果使用Trojan协议的节点可能会用不了，打开Trojan-go插件然后点击设定再点击Browse
+3. 插件安装完理论上是可以用了 但是如果使用Trojan协议的节点可能会用不了，打开Trojan-go插件然后点击设定再点击Browse
    选择自己Trojan可执行文件的路径 点击test run 出现如下弹窗就说明成功了，接下来导入节点就可以愉快上网了
    
 ![image](https://github.com/kukuqi666/Qv2ray_tools/blob/main/images/IMG_20240722_132806.png)
