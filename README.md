@@ -1,7 +1,7 @@
 ## 简介
 
-这里是文档的简介部分。你可以在这里介绍文档的主题、目的以及你将要讨论的内容概览。
-
+linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，因为有的linux发行版打开Applmages需要FUSE版本2才能运行
+具体请参考[FUSE](https://github.com/AppImage/AppImageKit/wiki/FUSE)
 
 #### 代码示例
 敲着玩的用不着，当个装饰
@@ -15,13 +15,7 @@ hello_world()
 
 
 ### 使用说明
-1. 将模板复制到一个新的文本文件中，并保存为`.md`扩展名的文件，例如`MyDocument.md`。
-2. 替换`title`、`author`和`date`元数据，使其反映你的文档信息。
-3. 根据你的内容调整章节标题和结构。
-4. 填充每个章节的内容，确保使用Markdown语法格式化文本、列表、代码块等。
-5. 如果需要，添加或调整目录、引用、代码示例等元素。
-
-这个模板提供了一个清晰的结构，帮助你组织和格式化Markdown文件，使其易于阅读和理解。
+1. 打开安装
 
 ![image](https://github.com/kukuqi666/Qv2ray_tools/blob/main/images/IMG_20240722_132513.png)
 ![image](https://github.com/kukuqi666/Qv2ray_tools/blob/main/images/IMG_20240722_132623.png)
