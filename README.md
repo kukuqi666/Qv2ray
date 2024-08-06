@@ -3,15 +3,14 @@
 linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，因为有的linux发行版打开Applmages需要FUSE版本2才能运行
 具体请参考[FUSE](https://github.com/AppImage/AppImageKit/wiki/FUSE)
 
-#### 代码示例
-敲着玩的用不着，当个装饰
-```python
-# Python 代码示例
-def hello_world():
-    print("Hello, world!")
+## 下载通道
+[Q2ray](https://github.com/Qv2ray/Qv2ray)
 
-hello_world()
-```
+[v2ray-core](https://github.com/v2fly/v2ray-core)
+
+[Xray-core](https://github.com/XTLS/Xray-core)
+
+[trojan-go](https://github.com/p4gefau1t/trojan-go)
 
 
 ### 使用说明
