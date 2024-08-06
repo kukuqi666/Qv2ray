@@ -12,6 +12,7 @@ linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，
 
 [trojan-go](https://github.com/p4gefau1t/trojan-go)
 
+[v2rayA](https://github.com/v2rayA/v2rayA)
 
 ### 使用说明
 1. 打开APPImage根据图片序号一步步操作 2和3是v2ray核心的可执行文件路径和资源目录(v2ray-core和xray-core用一个就行)
