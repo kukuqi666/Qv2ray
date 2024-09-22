@@ -38,6 +38,13 @@ bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/install.
 bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
 ```
 
+
+Trojan go一键安装脚本：
+
+```
+bash <(curl -sSL "https://raw.githubusercontent.com/veip007/hj/main/trojan-go.sh")
+```
+
 ### 使用说明
 1. 打开APPImage根据图片序号一步步操作 2和3是v2ray核心的可执行文件路径和资源目录(v2ray-core和xray-core用一个就行)
 下载好核心文件以后放在用户根目录下或其他好找的目录(不知道怎么填路径进核心文件打开终端pwd打印一下路径) 然后把可执行文件的路径和资源路径填进去点5和6验证一下配置有没有问题
