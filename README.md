@@ -26,7 +26,7 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
 ```
 
-[v2ray-xyz-690](https://github.com/xyz690/v2ray/tree/master)
+[v2ray-xyz690](https://github.com/xyz690/v2ray/tree/master)
 
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/install.sh)
