@@ -14,11 +14,29 @@ linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，
 
 [v2rayA](https://github.com/v2rayA/v2rayA)
 
-[服务器搭建v2ray一键安装脚本](https://github.com/233boy/v2ray)
+[v2ray-233boy](https://github.com/233boy/v2ray)
 
-[xray脚本](https://github.com/233boy/Xray)
+```
+bash <(curl -s -L https://git.io/v2ray.sh)
+```
+
+[xray-233boy](https://github.com/233boy/Xray)
+
+```
+bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
+```
+
+[v2ray-xyz-690](https://github.com/xyz690/v2ray/tree/master)
+
+```
+bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/install.sh)
+```
 
 [fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray)
+
+```
+bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
+```
 
 ### 使用说明
 1. 打开APPImage根据图片序号一步步操作 2和3是v2ray核心的可执行文件路径和资源目录(v2ray-core和xray-core用一个就行)
