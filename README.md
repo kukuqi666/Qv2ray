@@ -16,9 +16,15 @@ linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，
 
 [v2rayN](https://github.com/2dust/v2rayN)
 
+[clash-for-windows](https://github.com/lantongxue/clash_for_windows_pkg/releases)
+
 [v2rayNG](https://github.com/2dust/v2rayNG)
 
-[clash-for-windows](https://github.com/lantongxue/clash_for_windows_pkg/releases)
+[Clash for Android](https://apkpure.com/clash-for-android/com.github.kr328.clash/download)
+
+[Clash Meta For Android](https://f-droid.org/packages/com.github.metacubex.clash.meta/)
+
+[surfboard](https://surfboard.en.uptodown.com/android)
 
 [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
