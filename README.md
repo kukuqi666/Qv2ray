@@ -20,7 +20,7 @@ linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，
 - **surfboard**: [下载地址](https://surfboard.en.uptodown.com/android)  
 - **v2ray-rules-dat**: [GitHub 地址](https://github.com/Loyalsoldier/v2ray-rules-dat)  
  
-============================================================================
+==========================================================================
 
 
 - **v2ray-233boy**: [GitHub 地址](https://github.com/233boy/v2ray) 
