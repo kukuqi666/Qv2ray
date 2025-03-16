@@ -18,6 +18,8 @@ linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，
 
 [v2rayNG](https://github.com/2dust/v2rayNG)
 
+[clash-for-windows](https://github.com/lantongxue/clash_for_windows_pkg/releases)
+
 [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
 [v2ray-233boy](https://github.com/233boy/v2ray)
