@@ -4,15 +4,19 @@ linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，
 具体请参考[FUSE](https://github.com/AppImage/AppImageKit/wiki/FUSE)
 
 ## 下载通道
-[Q2ray](https://github.com/Qv2ray/Qv2ray)
-
 [v2ray-core](https://github.com/v2fly/v2ray-core)
 
 [Xray-core](https://github.com/XTLS/Xray-core)
 
 [trojan-go](https://github.com/p4gefau1t/trojan-go)
 
+[Q2ray](https://github.com/Qv2ray/Qv2ray)
+
 [v2rayA](https://github.com/v2rayA/v2rayA)
+
+[v2rayN](https://github.com/2dust/v2rayN)
+
+[v2rayNG](https://github.com/2dust/v2rayNG)
 
 [v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
 
