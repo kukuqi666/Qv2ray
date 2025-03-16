@@ -4,51 +4,44 @@ linux环境是在kali 24.02上面测试的，其余的linux语言自行测试，
 具体请参考[FUSE](https://github.com/AppImage/AppImageKit/wiki/FUSE)
 
 ## 下载通道
-[v2ray-core](https://github.com/v2fly/v2ray-core)
 
-[Xray-core](https://github.com/XTLS/Xray-core)
+以下是常用代理工具及其核心文件的下载链接：
 
-[trojan-go](https://github.com/p4gefau1t/trojan-go)
-
-[Q2ray](https://github.com/Qv2ray/Qv2ray)
-
-[v2rayA](https://github.com/v2rayA/v2rayA)
-
-[v2rayN](https://github.com/2dust/v2rayN)
-
-[clash-for-windows](https://github.com/lantongxue/clash_for_windows_pkg/releases)
-
-[v2rayNG](https://github.com/2dust/v2rayNG)
-
-[Clash for Android](https://apkpure.com/clash-for-android/com.github.kr328.clash/download)
-
-[Clash Meta For Android](https://f-droid.org/packages/com.github.metacubex.clash.meta/)
-
-[surfboard](https://surfboard.en.uptodown.com/android)
-
-[v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat)
+- **v2ray-core**: [GitHub 地址](https://github.com/v2fly/v2ray-core)  
+- **Xray-core**: [GitHub 地址](https://github.com/XTLS/Xray-core)  
+- **trojan-go**: [GitHub 地址](https://github.com/p4gefau1t/trojan-go)  
+- **Qv2ray**: [GitHub 地址](https://github.com/Qv2ray/Qv2ray)  
+- **v2rayA**: [GitHub 地址](https://github.com/v2rayA/v2rayA)  
+- **v2rayN**: [GitHub 地址](https://github.com/2dust/v2rayN)  
+- **clash-for-windows**: [GitHub 地址](https://github.com/lantongxue/clash_for_windows_pkg/releases)  
+- **v2rayNG**: [GitHub 地址](https://github.com/2dust/v2rayNG)  
+- **Clash for Android**: [下载地址](https://apkpure.com/clash-for-android/com.github.kr328.clash/download)  
+- **Clash Meta for Android**: [F-Droid 地址](https://f-droid.org/packages/com.github.metacubex.clash.meta/)  
+- **surfboard**: [下载地址](https://surfboard.en.uptodown.com/android)  
+- **v2ray-rules-dat**: [GitHub 地址](https://github.com/Loyalsoldier/v2ray-rules-dat)  
+ 
+=============================================================================== 
 
 
-
-[v2ray-233boy](https://github.com/233boy/v2ray)
+- **v2ray-233boy**: [GitHub 地址](https://github.com/233boy/v2ray) 
 
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
 
-[xray-233boy](https://github.com/233boy/Xray)
+- **xray-233boy**: [GitHub 地址](https://github.com/233boy/Xray) 
 
 ```
 bash <(wget -qO- -o- https://github.com/233boy/Xray/raw/main/install.sh)
 ```
 
-[v2ray-xyz690](https://github.com/xyz690/v2ray/tree/master)
+- **v2ray-xyz690**: [GitHub 地址](https://github.com/xyz690/v2ray/tree/master)  
 
 ```
 bash <(curl -s -L https://raw.githubusercontent.com/xyz690/v2ray/master/install.sh)
 ```
 
-[fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray)
+- **fhs-install-v2ray**: [GitHub 地址](https://github.com/v2fly/fhs-install-v2ray)
 
 ```
 bash <(curl -L https://raw.githubusercontent.com/v2fly/fhs-install-v2ray/master/install-release.sh)
