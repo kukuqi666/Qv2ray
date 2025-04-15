@@ -55,6 +55,9 @@ sudo  dpkg -i installer_debian_xxx_vxxx.deb ### 自行替换 deb 包所在的实
 
 V2Ray / Xray 的 deb 包可以在 [APT 软件源中](https://github.com/v2rayA/v2raya-apt/tree/master/pool/main/)找到。
 
+
+下载地址→https://github.com/kukuqi666/Qv2ray/releases/tag/v2rayA
+
 ## 启动 v2rayA / 设置 v2rayA 自动启动
 
 ### 在终端直接启动
